@@ -1,0 +1,6 @@
+.vercel
+uploads/
+node_modules/
+build/
+.react-router/
+.env
